@@ -1,4 +1,3 @@
-# ExampleTest
 class Test{
 import java.util.Scanner.*;
 public static void main(Atring args[])
