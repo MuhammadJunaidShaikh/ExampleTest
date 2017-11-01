@@ -1,7 +1,7 @@
 
 class Test{
 import java.util.Scanner.*;
-public static void main(Atring args[])
+public static void main(String args[]) // before you wrote Atring I changed String
       {
       System.out.println("Enter your name");
       Scanner input=new Scanner(System.in);
